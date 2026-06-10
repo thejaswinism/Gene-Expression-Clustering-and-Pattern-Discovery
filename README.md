@@ -10,6 +10,12 @@ A bioinformatics and machine learning project for analyzing Alzheimer's disease 
 
 To analyze Alzheimer's disease gene expression data using clustering techniques and identify biologically relevant co-expression patterns.
 
+
+## 🌐 Live Demo
+
+Access the deployed application here:
+
+https://gene-expression-analyzer.streamlit.app/
 ---
 
 ## ✨ Features
