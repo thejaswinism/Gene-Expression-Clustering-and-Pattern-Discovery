@@ -1,1 +1,8 @@
-streamlit pandas numpy scikit-learn scipy matplotlib seaborn reportlab
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+reportlab
